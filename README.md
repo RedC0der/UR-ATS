@@ -57,7 +57,51 @@ Check out the live demo: [UR-ATS Resume Checker](https://comforting-youtiao-3c29
 
 ## 💻 Local Development
 
-1. Clone the repository
-```bash
-git clone https://github.com/yourusername/your-repo-name.git
-cd your-repo-name
+1. **Clone the repository***
+   ```bash
+    git clone https://github.com/yourusername/your-repo-name.git
+    cd your-repo-name
+   
+2. **Install dependencies**
+   ```bash
+   bashCopy# Frontend
+   cd frontend
+   npm install
+
+   # Backend 
+   cd ../backend
+   npm install
+
+3. **Set up environment variables**
+   ```bash
+   bashCopy# Backend .env
+   MONGODB_URI=your_mongodb_uri
+   PORT=3001
+
+4. **Start development servers**
+   ```bash
+   bashCopy# Frontend
+   cd frontend
+   npm start
+
+   # Backend
+   cd backend
+   npm run dev
+
+🔄 API Endpoints
+
+javascriptCopyPOST /api/check-ats
+- Upload resume (PDF)
+- Submit job description
+- Receive analysis results
+
+🗺️ Roadmap
+
+ Enhanced keyword analysis
+ Multiple resume comparison
+ Industry-specific scoring
+ Resume formatting suggestions
+ User accounts and history
+
+🤝 Contributing
+Contributions, issues, and feature requests are welcome! Feel free to check issues page.
