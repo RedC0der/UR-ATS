@@ -5,7 +5,7 @@
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://comforting-youtiao-3c29ef.netlify.app/)
 
 <div align="center">
-  <img src="path-to-your-project-screenshot.png" alt="UR-ATS Screenshot" width="600px">
+  <img src="1.png" alt="UR-ATS Screenshot" width="600px">
   
   🚀 A modern ATS (Applicant Tracking System) resume checker to optimize your job applications
 </div>
