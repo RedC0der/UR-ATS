@@ -1,7 +1,7 @@
 # UR-ATS Resume Checker 📄✨
 
-![GitHub last commit](https://img.shields.io/github/last-commit/yourusername/your-repo-name)
-[![Netlify Status](https://api.netlify.com/api/v1/badges/your-netlify-badge/deploy-status)](https://app.netlify.com/sites/comforting-youtiao-3c29ef/deploys)
+![GitHub last commit](https://img.shields.io/github/last-commit/RedC0der/UR-ATS)
+
 [![Live Demo](https://img.shields.io/badge/demo-online-green.svg)](https://comforting-youtiao-3c29ef.netlify.app/)
 
 <div align="center">
